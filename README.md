@@ -1,41 +1,34 @@
 <div align="center">
 
-<br/>
+<pre align="center">
+  █████╗ ██╗  ██╗███╗   ███╗███████╗███████╗██████╗  ██████╗ 
+ ██╔══██╗██║  ██║████╗ ████║██╔════╝██╔════╝██╔══██╗██╔═══██╗
+ ███████║███████║██╔████╔██║█████╗  █████╗  ██████╔╝██║   ██║
+ ██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██╔══╝  ██╔══██╗██║   ██║
+ ██║  ██║██║  ██║██║ ╚═╝ ██║███████╗███████╗██║  ██║╚██████╔╝
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ 
+</pre>
 
-<table>
-<tr>
-<td align="center">
-<br/>
-<sub>● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ●</sub>
-<br/><br/>
-<sub>N &nbsp; O &nbsp; W &nbsp; &nbsp; &nbsp; D &nbsp; E &nbsp; P &nbsp; L &nbsp; O &nbsp; Y &nbsp; I &nbsp; N &nbsp; G</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&width=750&lines=%5B+STATUS+%3A+ONLINE+%5D+%7C+%5B+ROLE+%3A+AI+ENGINEER+%5D+%7C+%5B+FOCUS+%3A+AGENTIC+AI+%26+LLM+SYSTEMS+%5D+%7C+%5B+UPTIME+%3A+3%2B+YEARS+%5D" alt="Status Bar" />
+
 <br/><br/>
 
-<h1>MUHAMMAD &nbsp; AHMAD</h1>
+### Muhammad Ahmad Mehmood
+**AI Engineer | Agentic AI & LLM Systems Specialist**
 
-<sub>A I &nbsp; E N G I N E E R &nbsp; &nbsp; ▪ &nbsp; &nbsp; A G E N T I C &nbsp; A I &nbsp; & &nbsp; L L M &nbsp; S Y S T E M S</sub>
-<br/><br/>
-<sub>● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ● &nbsp; ●</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
+AI Engineer specializing in agentic systems, LLM integration, and production workflow automation. Experienced in building end-to-end solutions including voice agents, multi-agent pipelines, and API-connected workflows using Python, LangGraph, LangChain, FastAPI, and n8n. Dean's List graduate in BS Data Science from FAST-NUCES, Islamabad.
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=2500&pause=800&color=C9D1D9&center=true&vCenter=true&width=700&lines=%5B+STATUS+%3A+ONLINE+%5D++++%5B+ROLE+%3A+AI+ENGINEER+%5D++++%5B+UPTIME+%3A+3%2B+YEARS+%5D++++%5B+AGENTS+%3A+DEPLOYED+%5D" alt="Status" />
-
-<br/><br/>
-
-AI Engineer specializing in **agentic systems**, **LLM integration**, and **production workflow automation**.<br/>
-I build multi-agent pipelines, voice agents, and API-connected workflows that ship to production.<br/>
-Dean's List graduate — **BS Data Science**, FAST-NUCES Islamabad.
-
-<br/>
-
-<a href="mailto:ahmad.shahid.ds@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ahmad-236973359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/ahmee20"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:ahmad.shahid.ds@gmail.com">
+  <img src="https://img.shields.io/badge/Email-ahmad.shahid.ds%40gmail.com-00FF66?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/muhammad-ahmad-236973359/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+</a>
+<a href="https://github.com/ahmee20">
+  <img src="https://img.shields.io/badge/GitHub-ahmee20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -43,166 +36,90 @@ Dean's List graduate — **BS Data Science**, FAST-NUCES Islamabad.
 
 ---
 
-<br/>
-
-<h3 align="center">WHAT I WORK WITH</h3>
-
-<br/>
+### TECHNICAL SKILLS
 
 <div align="center">
 
-| Agentic AI & LLMs | ML / DL / CV | Automation & Backend |
-|:---:|:---:|:---:|
-| LangGraph | TensorFlow | n8n |
-| LangChain | PyTorch | FastAPI |
-| CrewAI | Scikit-Learn | Flask |
-| AutoGen | OpenCV | Twilio / VAPI |
-| RAG Pipelines | NLP | REST APIs & Webhooks |
-| Prompt Engineering | Computer Vision | MySQL / SQLite |
-| Multi-Agent Systems | Neural Networks | Git / GitHub |
+#### Agentic AI & LLM Systems
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=for-the-badge&logoColor=white)
+![AutoGen](https://img.shields.io/badge/AutoGen-2F2F2F?style=for-the-badge&logoColor=white)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-00FF66?style=for-the-badge&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00E5FF?style=for-the-badge&logoColor=black)
+
+#### Voice AI & Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![VAPI](https://img.shields.io/badge/VAPI-000000?style=for-the-badge&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=00E5FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs_%26_Webhooks-009688?style=for-the-badge&logoColor=white)
+
+#### Machine Learning & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-2F2F2F?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+### FEATURED PROJECTS
+
+| Project | Architecture & Tech Stack | Description | Status |
+| :--- | :--- | :--- | :---: |
+| **[LaunchMind](https://github.com/ahmee20/LaunchMind)** | `Automation` `AI Ops` `Workflows` `Python` | Coordinates launch planning and stakeholder updates so rollout work moves cleanly from idea to execution. | `ACTIVE` |
+| **[SentraQ Video Moderation](https://github.com/ahmee20/ml-triad-signature-text-mnist)** | `NLP` `Speech-to-Text` `Python` `TensorFlow` | Intelligent moderation platform using NLP and speech-to-text to detect offensive language and hate speech (81% accuracy) with real-time dashboards. | `DEPLOYED` |
+| **[AI Receptionist Calling Agent](https://github.com/ahmee20/calling-agent)** | `n8n` `VAPI` `Twilio` `Webhooks` | End-to-end AI voice receptionist automating calendar events, database updates, and email confirmations with real-time availability tracking across 5 platforms. | `ONLINE` |
+| **[Dependency Security Auditor](https://github.com/ahmee20/Dependency-Aware-Auditing)** | `LangGraph` `Pydantic` `PyPI` `Tavily` | Agentic Python workflow that reuses approved tools or generates new ones from natural-language tasks with deterministic import auditing. | `DEPLOYED` |
+| **[AI Storybook Generator](https://github.com/ahmee20)** | `OpenAI` `Vision APIs` `Python` | AI children's book generator producing 16 illustrated scenes per request, extracting 10+ visual attributes into structured prompts for character consistency. | `DEPLOYED` |
+| **[Street Fighter II AI Agent](https://github.com/ahmee20)** | `TensorFlow` `Neural Networks` `Python` | Autonomous gameplay agent for Street Fighter II Turbo using supervised deep learning and game-state feature extraction. | `COMPLETE` |
 
 ---
 
-<br/>
+### PROFESSIONAL EXPERIENCE
 
-<h3 align="center">WHAT I'VE BUILT</h3>
+* **AI Automation Engineer | Tashi Technologies Corp** (Sep 2025 | Mar 2026)
+  Architected and deployed agentic AI workflows integrating LLMs, voice agents, and multiple third-party APIs to automate end-to-end business processes. Owned engineering standards from requirements gathering to production deployment.
 
-<br/>
+* **Computer Vision Research Assistant | Genesys Research Lab** (Jun 2025 | Jul 2025)
+  Worked on infrastructure monitoring research using LiDAR data and deep learning defect detection, integrating GPS coordinates for geospatial mapping.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h4 align="center">SentraQ</h4>
-<p align="center"><sub>Final Year Project @ AJCL</sub></p>
-
-AI video content moderation platform. Uses NLP, computer vision, and speech-to-text to detect offensive language and hate speech. Real-time dashboards and activity logging. **81% accuracy**.
-
-`NLP` `Computer Vision` `Speech-to-Text` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-<h4 align="center">AI Receptionist Agent</h4>
-<p align="center"><sub>Voice AI + Workflow Automation</sub></p>
-
-End-to-end AI voice receptionist. Integrates **5 platforms** — Calendar, Sheets, Gmail, VAPI, Twilio — through webhooks. Real-time availability tracking. **100% automated** appointment system.
-
-`n8n` `VAPI` `Twilio` `Webhooks`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4 align="center">Dependency Security Auditor</h4>
-<p align="center"><sub>Agentic Python Workflow</sub></p>
-
-Agentic system that reuses approved tools or generates new ones from natural-language tasks. Deterministic auditing of imports using PyPI, OSV, and web search with a local tool registry.
-
-`LangGraph` `Pydantic` `PyPI` `Tavily`
-
-</td>
-<td width="50%" valign="top">
-
-<h4 align="center">AI Storybook Generator</h4>
-<p align="center"><sub>OpenAI + Vision APIs</sub></p>
-
-Generates personalized children's books — **16 illustrated scenes** per request. Extracts **10+ visual attributes** into structured prompts for consistent character and scene generation.
-
-`OpenAI` `Vision APIs` `Python`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h4 align="center">Street Fighter II AI Agent</h4>
-<p align="center"><sub>Deep Learning + Emulator</sub></p>
-
-AI gameplay agent for Street Fighter II Turbo. Supervised deep learning with game-state feature extraction. Neural network predicts controller actions, integrated with emulator for autonomous play.
-
-`TensorFlow` `Neural Networks` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-<h4 align="center">CPEC Infrastructure Monitor</h4>
-<p align="center"><sub>Research @ Genesys Lab</sub></p>
-
-Infrastructure monitoring on CPEC-associated projects using LiDAR data and YOLO-based defect detection. GPS-integrated visualization of detected defects on geospatial maps.
-
-`YOLO` `LiDAR` `OpenCV` `GPS`
-
-</td>
-</tr>
-</table>
-
-<br/>
+* **Lab Demonstrator (Operating Systems) | FAST-NUCES, Islamabad** (Aug 2025 | Dec 2025)
+  Mentored 30+ students across OS lab sessions, demonstrating core OS concepts and guiding hands-on lab exercises.
 
 ---
 
-<br/>
+### EDUCATION & CERTIFICATIONS
 
-<h3 align="center">WHERE I'VE WORKED</h3>
+#### Education
+* **BS Data Science** | FAST-NUCES, Islamabad (2022 | 2026)
+  * Dean's List Graduate (Academic Excellence)
+  * Coursework: Agentic AI, Deep Learning, Big Data Analytics, Generative AI, Digital Image Processing
 
-<br/>
+#### Certifications & Honors
+* **Dean's List Award** | FAST-NUCES (Academic Excellence)
+* **Machine Learning with Scikit-Learn** | LinkedIn Learning
+* **Data Analytics with Python** | Simplilearn / Coursera
+
+---
+
+### GITHUB TELEMETRY
 
 <div align="center">
 
-| | Role | At | |
-|:---:|:---|:---|:---:|
-| 2025–2026 | **AI Automation Engineer** | Tashi Technologies Corp | Agentic AI workflows, LLMs, voice agents |
-| 2025 | **CV Research Intern** | Genesys Research Lab | LiDAR + YOLO defect detection |
-| 2025 | **Lab Demonstrator** | FAST-NUCES | Mentored 30+ students in OS |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<h3 align="center">EDUCATION</h3>
-
-<br/>
-
-<div align="center">
-
-**BS Data Science** — FAST-NUCES, Islamabad — 2022 to 2026
-
-Dean's List (Academic Excellence)
-
-<sub>Agentic AI | Deep Learning | Big Data Analytics | Digital Image Processing | Generative AI</sub>
-
-<br/>
-
-<sub>Certifications: ML with Scikit-Learn (LinkedIn) | Data Analytics with Python (Coursera)</sub>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=ahmee20&show_icons=true&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=c9d1d9&bg_color=0d1117&count_private=true" />
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmee20&layout=compact&hide_border=true&title_color=c9d1d9&text_color=8b949e&bg_color=0d1117" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmee20&hide_border=true&background=0d1117&stroke=30363d&ring=c9d1d9&fire=ff6e00&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=555555" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmee20&show_icons=true&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="GitHub Stats" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmee20&layout=compact&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ahmee20&style=flat-square&color=30363d&label=VISITORS" />
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmee20&theme=terminal&background=0d1117&border=00ff66&stroke=00ff66&ring=00e5ff&fire=00ff66&currStreakLabel=00e5ff" alt="GitHub Streak" />
+</a>
 
 </div>
