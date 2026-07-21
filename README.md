@@ -18,7 +18,7 @@
 ### Muhammad Ahmad Mehmood
 **AI Engineer | Agentic AI & LLM Systems Specialist**
 
-AI Engineer specializing in agentic systems, LLM integration, and production workflow automation. Experienced in building end to end solutions including voice agents, multi agent pipelines, and API connected workflows using Python, LangGraph, LangChain, FastAPI, and n8n. Dean's List graduate in BS Data Science from FAST-NUCES, Islamabad.
+AI Engineer specializing in agentic systems, LLM integration, and production workflow automation. Experienced in building end to end solutions including voice agents, multi agent pipelines, and API connected workflows using Python, LangGraph, LangChain, FastAPI, and n8n. Graduate in BS Data Science from FAST-NUCES, Islamabad.
 
 <br/>
 
@@ -76,22 +76,19 @@ AI Engineer specializing in agentic systems, LLM integration, and production wor
 | **[LaunchMind](https://github.com/ahmee20/LaunchMind)** | `Automation` `AI Ops` `Workflows` `Python` | Coordinates launch planning and stakeholder updates so rollout work moves cleanly from idea to execution. | `ACTIVE` |
 | **[SentraQ Video Moderation](https://github.com/ahmee20/ml-triad-signature-text-mnist)** | `NLP` `Speech-to-Text` `Python` `TensorFlow` | Intelligent moderation platform using NLP and speech to text to detect offensive language and hate speech (81% accuracy) with real time dashboards. | `DEPLOYED` |
 | **[AI Receptionist Calling Agent](https://github.com/ahmee20/calling-agent)** | `n8n` `VAPI` `Twilio` `Webhooks` | End to end AI voice receptionist automating calendar events, database updates, and email confirmations with real time availability tracking across 5 platforms. | `ONLINE` |
-| **[Dependency Security Auditor](https://github.com/ahmee20/Dependency-Aware-Auditing)** | `LangGraph` `Pydantic` `PyPI` `Tavily` | Agentic Python workflow that reuses approved tools or generates new ones from natural language tasks with deterministic import auditing. | `DEPLOYED` |
+| **[Dependency Security Auditor](https://github.com/ahmee20/Dependency-Aware-Auditing)** | `LangGraph` `Pydantic` `PyPI` `Tavily` | Agentic Python workflow that reuses approved tools or generates new ones from natural language tasks with deterministic import auditing. | `COMPLETED` |
 | **[AI Storybook Generator](https://github.com/ahmee20)** | `OpenAI` `Vision APIs` `Python` | AI children's book generator producing 16 illustrated scenes per request, extracting 10+ visual attributes into structured prompts for character consistency. | `DEPLOYED` |
-| **[Street Fighter II AI Agent](https://github.com/ahmee20)** | `TensorFlow` `Neural Networks` `Python` | Autonomous gameplay agent for Street Fighter II Turbo using supervised deep learning and game state feature extraction. | `COMPLETE` |
+| **[Street Fighter II AI Agent](https://github.com/ahmee20)** | `TensorFlow` `Neural Networks` `Python` | Autonomous gameplay agent for Street Fighter II Turbo using supervised deep learning and game state feature extraction. | `COMPLETED` |
 
 ---
 
 ### PROFESSIONAL EXPERIENCE
 
-* **AI Automation Engineer | Tashi Technologies Corp** (Sep 2025 to Mar 2026)  
-  Architected and deployed agentic AI workflows integrating LLMs, voice agents, and multiple third party APIs to automate end to end business processes. Owned engineering standards from requirements gathering to production deployment.
-
-* **Computer Vision Research Assistant | Genesys Research Lab** (Jun 2025 to Jul 2025)  
-  Worked on infrastructure monitoring research using LiDAR data and deep learning defect detection, integrating GPS coordinates for geospatial mapping.
-
-* **Lab Demonstrator (Operating Systems) | FAST-NUCES, Islamabad** (Aug 2025 to Dec 2025)  
-  Mentored 30+ students across OS lab sessions, demonstrating core OS concepts and guiding hands on lab exercises.
+| Timeline | Role & Organization | Impact & Responsibilities |
+| :---: | :--- | :--- |
+| **Sep 2025 | Mar 2026** | **AI Automation Engineer**<br/>`Tashi Technologies Corp` | Architected and deployed agentic AI workflows integrating LLMs, voice agents, and multiple third party APIs to automate end to end business processes. Owned engineering standards from requirements gathering to production deployment. |
+| **Jun 2025 | Jul 2025** | **Computer Vision Research Assistant**<br/>`Genesys Research Lab` | Worked on infrastructure monitoring research using LiDAR data and deep learning defect detection, integrating GPS coordinates for geospatial mapping. |
+| **Aug 2025 | Dec 2025** | **Lab Demonstrator (Operating Systems)**<br/>`FAST-NUCES, Islamabad` | Mentored 30+ students across OS lab sessions, demonstrating core OS concepts and guiding hands on lab exercises. |
 
 ---
 
@@ -99,7 +96,6 @@ AI Engineer specializing in agentic systems, LLM integration, and production wor
 
 #### Education
 * **BS Data Science** | FAST-NUCES, Islamabad (2022 to 2026)  
-  * Dean's List Graduate (Academic Excellence)  
   * Coursework: Agentic AI, Deep Learning, Big Data Analytics, Generative AI, Digital Image Processing
 
 #### Certifications & Honors
@@ -113,8 +109,9 @@ AI Engineer specializing in agentic systems, LLM integration, and production wor
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ahmee20&show_icons=true&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="GitHub Stats" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmee20&layout=compact&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmee20&show_icons=true&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="GitHub Stats" />
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmee20&layout=compact&theme=terminal&title_color=00FF66&text_color=00E5FF&icon_color=00FF66&bg_color=0d1117&border_color=00ff66&border_radius=8" alt="Top Languages" />
 
 <br/><br/>
 
